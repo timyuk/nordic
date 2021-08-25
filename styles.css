@@ -51,6 +51,9 @@ p{
 .instas>div{
     width:40%;
 }
-.tim{
-    width:80%
+footer>div>p{
+    color: #000;
+}
+footer>div{
+    margin-left: 10px;
 }
